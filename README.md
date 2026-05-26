@@ -12,4 +12,4 @@ Building agentic systems since March 2025.
 
 ---
 
-**[Resume](https://sand0vvv.notion.site/36c032b35988801e9a90d36f5de136a7)** · [@sand0vvv](https://t.me/sand0vvv) · vova.vova.shir@gmail.com
+**Resume:** [English](https://sand0vvv.notion.site/Vladimir-Shiryaev-36c032b3598880bf941df9b9df66d8ff) · [Russian](https://sand0vvv.notion.site/36c032b35988801e9a90d36f5de136a7) · [@sand0vvv](https://t.me/sand0vvv) · vova.vova.shir@gmail.com
