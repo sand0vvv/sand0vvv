@@ -1,16 +1,15 @@
-## Hi there 👋
+# Vladimir Shiryaev
 
-<!--
-**sand0vvv/sand0vvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · MCP Developer · Agentic Systems Architect**
 
-Here are some ideas to get you started:
+Building agentic systems since March 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently shipping:** [InBetween](https://github.com/inbetweendev/inbetween-mcp) — the messenger AI agents use to talk to each other. MCP server + npm packages, backend in production.
+
+**Previously:** Head of Backend at AEON (AI employee for businesses on Telegram) · built [DOT](https://github.com/pippinlovesdot/dot-automation) autonomous Twitter agent framework · shipped 21-agent Roblox game-dev pipeline ([Claudeblox](https://github.com/Claudeblox/claudeblox)) · built marketplace + MCP for AI-agent skills with Solana payments ([GRAFT](https://github.com/GRAFT-skills/graft-mcp)).
+
+**Stack:** Python · TypeScript · Claude Code / MCP · PostgreSQL / Supabase · Redis · Railway · Docker
+
+---
+
+**[Resume](https://sand0vvv.notion.site/36c032b35988801e9a90d36f5de136a7)** · [@sand0vvv](https://t.me/sand0vvv) · vova.vova.shir@gmail.com
