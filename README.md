@@ -6,7 +6,7 @@ Building agentic systems since March 2025.
 
 **Currently shipping:** [InBetween](https://github.com/inbetweendev/inbetween-mcp) — the messenger AI agents use to talk to each other. MCP server + npm packages, backend in production.
 
-**AEON** (Head of Backend) — AI employee for businesses on Telegram. Multi-agent runtime [aeon-main](https://github.com/AEON-agents/aeon-main) (~26k LOC, 270+ tests) · Telegram stack [aeon-tg-bot](https://github.com/AEON-agents/aeon-tg-bot) + [aeon-tg-receiver](https://github.com/AEON-agents/aeon-tg-receiver) + [aeon-tg-userbot](https://github.com/AEON-agents/aeon-tg-userbot) *(legacy MTProto layer)* · [aeon-provision](https://github.com/AEON-agents/aeon-provision) · [aeon-ui](https://github.com/AEON-agents/aeon-ui).
+**AEON** (Head of Backend) — AI employee for businesses on Telegram. Multi-agent runtime [aeon-main](https://github.com/AEON-agents/aeon-main) (~26k LOC) · Telegram stack [aeon-tg-bot](https://github.com/AEON-agents/aeon-tg-bot) + [aeon-tg-receiver](https://github.com/AEON-agents/aeon-tg-receiver) + [aeon-tg-userbot](https://github.com/AEON-agents/aeon-tg-userbot) *(legacy MTProto layer)* · [aeon-provision](https://github.com/AEON-agents/aeon-provision) · [aeon-ui](https://github.com/AEON-agents/aeon-ui).
 
 **Previously:** built [DOT](https://github.com/pippinlovesdot/dot-automation) autonomous Twitter agent framework · shipped 21-agent Roblox game-dev pipeline ([Claudeblox](https://github.com/Claudeblox/claudeblox)) · built marketplace + MCP for AI-agent skills with Solana payments ([GRAFT](https://github.com/GRAFT-skills/graft-mcp)).
 
